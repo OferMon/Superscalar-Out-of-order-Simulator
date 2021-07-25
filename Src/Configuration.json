@@ -1,0 +1,12 @@
+{
+"traces" : ["coremarkS", "dhrystoneS", "fibonacciS", "linpackS"],
+"Number Of Pipelines": 2,
+"branch Prediction Dir": "Always Taken",
+"Number Of Execution Units": 2,
+"reservation Station Type": "Seperate",
+"reservation Station Size": 4,
+"Number Of Memory Cycles": 3,
+"reorder Buffer Size": 8,
+"Number Of PRF": 20,
+"Debug Mode": 1
+}
